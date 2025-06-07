@@ -1,4 +1,4 @@
-a = 5
+a = 4
 b = 6
 c = a
 print("variável a antes de ter um novo valor atribuído ", a)
